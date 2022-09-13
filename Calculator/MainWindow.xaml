@@ -356,8 +356,8 @@
                             Margin="10">
                         <Button Width="60"
                             Height="47.3"
-                            Content="."
-                                Foreground="#1991ff"
+                            Content=","
+                            Foreground="#1991ff"
                             VerticalContentAlignment="Top"
                             FontSize="40"
                             Background="Transparent"
